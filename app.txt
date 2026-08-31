@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "events": "[\"alZ2fYDqLcynOzq0jdInNJZzLYVnS29laUO6OzO0YJ83OowoSYSngdVRLW1nOzroXeSCOAVlLWS0\nOowokBImgHPRLW1nOzroXeSCOAVlLWS0OowokBImgHZRLW1nOzroOowokBImgHPBgBPdOzrofMV0\njMC6YJ9jN2Zug2kdSYOhS29iS2ynkYDnjcDigdVngdThL29xYJ9qgWkjN2ZjN1OlRYSfCdmuYJ9G\nIdSLj0IrgnVNTcmwTnPwg2SIgHPwjdIPWH9HLsHlg1SMj3kpIInTVsZAC1DVHnnvaewxaYDfVPVE\nDsL2HsPNUKewV0usTnnxUXkxWWyGC2DNTzkLVB9rIBSeRMmuWBkVSsGoH3P4gKIuY1L5jdkzDBkP\nLdmMjBIJXc9uCWkXLHqeDe13I21KIXZWfW5JaPP4XWHxj01XTHCxV0qeje1oSIG1Sl03RMDwkKCs\naKkXUnL0k1e3CHVBY25VHcx3VenzHBDjN3CyDzFwCPwiLWTsCznmRBAxSWHyCJ00LsbsNXneSWOx\nSzF2RKCwCXSmD2AlZXOwEKAqNdGhSlOuOdVnLW1JVcymSlO6OoOuOcVmkBHoRoOyRIwiCXGjNsOw\nCzHoNJZ0fW1nOzroCXT6CKL6CKFoNJZufW5vY25mgWIsOzqgOe5BXJGAjcPckJGPaBDukYDqkcHb\nXWPqgoOuOe5BXJGAjcPckJGPaBDukYDqkcHbOowoXeSCOAVlLWS0OAI4L2y1j2n2SUFoNJZRVewb\nVMZmSdTbVYmzgMIsfYSnOJOuOe5BXJGAjcPckJGPaBDukYDqkcHbOowoH2IlkcIlOA1mfW4oNJZX\nSYZ2SYObCUFvOowoH2IlkcIlOKOoNJZXSYZ2SYObClZkNJZufW5vjlO6OdGlg1wiXeSCNHVlLWS0\nNH5BXJ1AjcPckJ12jl0hfdDigoOuOdDukWjoRoZzUAq2XKF1V1VKCHIzgHSxSACyX1Zvk3VUUAqr\nWc5VkBVhXYVCgYG6LzO0QUOuOcyqgcxsY2neOzroCXjyOd0=\n\"]",
+        "categories": "[]",
+        "ads_data": "{\"sdk_key\":\"\",\"banner_ad_id\":\"\",\"inter_ad_id\":\"\",\"native_ad_id\":\"\",\"adx_banner_ad_id\":\"\",\"adx_inter_ad_id\":\"\",\"adx_native_ad_id\":\"\"}",
+        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
+        "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
+        "app_version": "50",
+        "message": "New update available!",
+        "message_url": "https:\/\/example.com\/update",
+        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.star.sports.one.cricket.live",
+        "bottom_visible": "no",
+        "msg_visible": "no",
+        "score_visible": "yes",
+        "default_link": null
+    }
+]
