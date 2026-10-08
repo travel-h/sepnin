@@ -6,7 +6,7 @@
         "ads_data": "{\"sdk_key\":\"hhjj\",\"banner_ad_id\":\"huiu\",\"inter_ad_id\":\"hjj\",\"native_ad_id\":\"hju\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
-        "app_version": "85",
+        "app_version": "81",
         "message": "New update available!",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
